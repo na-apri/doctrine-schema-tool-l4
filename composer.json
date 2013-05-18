@@ -1,5 +1,5 @@
 {
-    "name": "DoctrineSchemaToolL4",
+    "name": "na-apri/DoctrineSchemaToolL4",
     "description": "",
     "require": {
         "php": ">=5.4.0",

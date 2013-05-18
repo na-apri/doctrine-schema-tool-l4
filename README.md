@@ -28,7 +28,7 @@ yamlのみでのSchemaTool:updateができます。
 		}
 	],
     "require": {
-		"DoctrineSchemaToolL4": "dev-master"
+		"na-apri/DoctrineSchemaToolL4": "dev-master"
     }
 }
 ```
