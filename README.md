@@ -18,6 +18,8 @@ yamlのみでのSchemaTool:updateができます。
 
 ## インストール
 
+### Composerを使う方法
+
 ```JSON
 {
 	"repositories" : [
@@ -51,7 +53,17 @@ Facadeも使いたい場合はaliases配列に、
 
 を追加してください。
 
-src直下のconfigディレクトリに設定関係があります。
+### 設定ファイル
+
+publishを行います。
+
+	php artisan config:publish na-apri/DoctrineSchemaToolL4
+	
+
+app/config/na-apri/DoctrineSchemaToolL4に設定ファイルが出来ているので、
+
+そこで設定を変更できます。
+
 
 ## 使い方
 
