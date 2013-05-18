@@ -1,0 +1,15 @@
+{
+    "name": "na-apri/doctrine-schema-tool-l4",
+    "description": "",
+    "require": {
+        "php": ">=5.4.0",
+		"doctrine/orm" : "*",
+		"symfony/yaml" : "*"
+   },
+    "autoload": {
+        "psr-0": {
+            "NaApri\\DoctrineSchemaToolL4": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

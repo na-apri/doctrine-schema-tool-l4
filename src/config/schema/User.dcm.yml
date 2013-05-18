@@ -1,0 +1,14 @@
+User:
+  type: entity
+  table: users
+  fields:
+    id:
+      id: true
+      type: bigint
+      generator:
+        strategy: IDENTITY
+      options:
+        unsigned: true
+    name:
+      type: string
+      length: 32
