@@ -28,7 +28,7 @@ yamlのみでのSchemaTool:updateができます。
 		}
 	],
     "require": {
-		"shimasuo": "dev-master"
+		"DoctrineSchemaToolL4": "dev-master"
     }
 }
 ```
